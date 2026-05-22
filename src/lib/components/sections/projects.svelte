@@ -13,7 +13,7 @@
         {
             name: "Guard Bot",
             description:
-                "Robust Discord management bot used on more than 2,017 servers worldwide.",
+                "Robust Discord management bot used on more than 1,030 servers worldwide.",
             image: RolesBotImage,
             button: {
                 label: "Visit Website",
