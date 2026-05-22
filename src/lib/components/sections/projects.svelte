@@ -27,7 +27,7 @@
         {
             name: "Vylee",
             description:
-                "Vylee delivers modern, reliable hosting built for smooth performance.",
+                "Vylee provides fast, reliable hosting for modern communities.",
             image: PortableMediaPlayerImage,
             button: {
                 label: "Read more",
